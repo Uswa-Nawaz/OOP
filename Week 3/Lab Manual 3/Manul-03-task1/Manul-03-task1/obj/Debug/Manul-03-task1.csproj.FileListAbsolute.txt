@@ -1,0 +1,7 @@
+C:\Users\HP\OneDrive\Desktop\Week 03\Manul-03-task1\Manul-03-task1\bin\Debug\Manul-03-task1.exe.config
+C:\Users\HP\OneDrive\Desktop\Week 03\Manul-03-task1\Manul-03-task1\bin\Debug\Manul-03-task1.exe
+C:\Users\HP\OneDrive\Desktop\Week 03\Manul-03-task1\Manul-03-task1\bin\Debug\Manul-03-task1.pdb
+C:\Users\HP\OneDrive\Desktop\Week 03\Manul-03-task1\Manul-03-task1\obj\Debug\Manul-03-task1.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\Week 03\Manul-03-task1\Manul-03-task1\obj\Debug\Manul-03-task1.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\Week 03\Manul-03-task1\Manul-03-task1\obj\Debug\Manul-03-task1.exe
+C:\Users\HP\OneDrive\Desktop\Week 03\Manul-03-task1\Manul-03-task1\obj\Debug\Manul-03-task1.pdb
